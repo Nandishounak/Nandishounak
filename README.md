@@ -4,16 +4,16 @@
 
 I'm a biomedical engineer and neuroimaging researcher working at the intersection of MRI physics, data pipelines, and clinical research.
 I specialize in pediatric neuroimaging, brain MRI analysis pipelines, and building reproducible research workflows on HPC clusters.
-Outside the lab, I spend my time playing guitar and playing badminton.  Recently a new found hobby is chasing clear skies for astrophotography 🔭 and planetary conjunctions, take moon photographs. 
+Outside the lab, I spend my time playing guitar and playing badminton.  Recently, my newfound hobby is chasing clear skies for astrophotography 🔭 and planetary conjunctions, taking moon photographs. 
 
 ## 🔭 What I'm currently up to
 
 - 🧠 Study Coordinator at **Albert Einstein College of Medicine** (PI: Tim Duong), working on pediatric hematologic malignancy survivor neuroimaging studies
-- 🖋️ Preparing a multimodal MRI systematic review manuscript on pediatric chemobrain for journal submission
+- 🖋️ Developing ML/DL models to predict the Brain Age of pediatric cancer patients
 - ⚙️ Building and debugging brain age prediction pipelines on HPC (Python, conda environments, dependency management)
-- 🧪 Developing MRI analysis workflows using FreeSurfer, FSL, ANTs, TBSS, and NODDI
-- 🌌 Learning to squeeze more detail out of my astrophotography setups
-- 💬 Ask me about MRI physics (k-space, TE/TR, pulse sequences), neuroimaging pipelines, or biomedical engineering
+- 🧪 Developing MRI analysis workflows
+- 🌌 Learning about MRI physics, pulse sequences, and mathematical models for implementing Diffusion and Functional MRI
+- 💬 Ask me about neuroimaging pipelines, biomedical engineering, or living abroad as an Expat (US, Germany)
 
 ## 🛠️ Tools & Technologies
 
@@ -25,7 +25,7 @@ Outside the lab, I spend my time playing guitar and playing badminton.  Recently
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-**Neuroimaging stack:** FreeSurfer · FSL · ANTs · TBSS · NODDI · HCP pipelines
+**Neuroimaging stack:** FreeSurfer · FSL · ANTs · dipy · TBSS · NODDI · SPM · MRtrix · DICOM · NIfTI · BIDS
 
 ## 📊 GitHub Stats
 
@@ -42,3 +42,4 @@ Outside the lab, I spend my time playing guitar and playing badminton.  Recently
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en)
 ---
 <sub>Profile README inspired by the classic GitHub self-README format.</sub>
+<sub>Credits: https://github.com/RahulMahesh62<sub>
