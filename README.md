@@ -1,26 +1,44 @@
-## Hi, I'm Shounak Nandi
+# Hi, I'm Shounak Nandi 👋 [nandishounak.github.io](https://nandishounak.github.io)
 
-Neuroimaging researcher working on multi-modal MRI analysis — diffusion microstructure modeling, low-field MRI, and scalable preprocessing pipelines on HPC systems.
+![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=180&section=header&text=Shounak%20Nandi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Study%20Coordinator%20%40%20Einstein%20College%20of%20Medicine%20%7C%20Neuroimaging%20%26%20MRI%20Research&descAlignY=58&descSize=16)
 
-Currently a Study Coordinator in Radiology at **Albert Einstein College of Medicine**, New York.
+I'm a biomedical engineer and neuroimaging researcher working at the intersection of MRI physics, data pipelines, and clinical research.
+I specialize in pediatric neuroimaging, brain MRI analysis pipelines, and building reproducible research workflows on HPC clusters.
+Outside the lab, I spend my time playing guitar and playing badminton.  Recently a new found hobby is chasing clear skies for astrophotography 🔭 and planetary conjunctions, take moon photographs. 
 
-### What I work on
+## 🔭 What I'm currently up to
 
-- **Diffusion MRI microstructure modeling** — NODDI-Bingham GPU-accelerated pipelines (PyTorch, SLURM)
-- **Low-field & accessible MRI** — texture-based and volumetric biomarker development
-- **Neuroimaging pipelines** — reproducible preprocessing and QC using FSL, FreeSurfer, AFNI, ANTs, SPM, DIPY
-- **Medical image computing** — optical tracking calibration, DICOM data curation, PET-MR registration
+- 🧠 Study Coordinator at **Albert Einstein College of Medicine** (PI: Tim Duong), working on pediatric hematologic malignancy survivor neuroimaging studies
+- 🖋️ Preparing a multimodal MRI systematic review manuscript on pediatric chemobrain for journal submission
+- ⚙️ Building and debugging brain age prediction pipelines on HPC (Python, conda environments, dependency management)
+- 🧪 Developing MRI analysis workflows using FreeSurfer, FSL, ANTs, TBSS, and NODDI
+- 🌌 Learning to squeeze more detail out of my astrophotography setups
+- 💬 Ask me about MRI physics (k-space, TE/TR, pulse sequences), neuroimaging pipelines, or biomedical engineering
 
-### Selected publications
+## 🛠️ Tools & Technologies
 
-- **Nandi S**, Poojar P, Taufique S, et al. *MRI textural changes are more sensitive than volumetric changes in the amygdala of cocaine use disorder patients.* **NMR in Biomedicine**, 2026. [DOI](https://doi.org/10.1002/nbm.70193)
-- McKenna FF, **Nandi S**, et al. *Microvascular and microstructural brain abnormalities in pediatric hematologic cancer survivors.* **British Journal of Haematology**, 2025. (Co-first author) [DOI](https://doi.org/10.1111/bjh.70300)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-### Education
+**Neuroimaging stack:** FreeSurfer · FSL · ANTs · TBSS · NODDI · HCP pipelines
 
-- **M.Sc.** Biomedical Engineering & Medical Physics — Technical University of Munich
-- **B.Tech.** Biomedical Engineering — MAKAUT, India
+## 📊 GitHub Stats
 
-### Links
+[![Shounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandishounak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/Nandishounak)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandishounak&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nandishounak)
 
-[Website](https://nandishounak.github.io) · [Google Scholar](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3588-3838) · [LinkedIn](https://www.linkedin.com/in/shounak-nandi-b2b40b78/) · [ResearchGate](https://www.researchgate.net/profile/Shounak-Nandi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandishounak&theme=tokyonight&hide_border=true)
+
+## 🌐 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nandishounak.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounak-nandi-b2b40b78)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shounak-Nandi?ev=hdr_xprf)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en)
+---
+<sub>Profile README inspired by the classic GitHub self-README format.</sub>
