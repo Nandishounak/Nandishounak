@@ -11,7 +11,7 @@
 * 🌌 Learning about MRI physics, pulse sequences, and mathematical models for implementing Diffusion and Functional MRI
 * 💬 Ask me about neuroimaging pipelines, biomedical engineering, or living abroad as an Expat (US, Germany)
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif" align="center"
+<summary><h2><img src="https://slackmojis.com/emojis/57097-bulbasaur/download" align="center"
                 width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
