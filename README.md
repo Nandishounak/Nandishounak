@@ -1,8 +1,8 @@
 # Hi, I'm Shounak Nandi 👋
 
-**Biomedical engineer & neuroimaging researcher** working at the intersection of **MRI physics, reproducible data pipelines, and clinical research.** I build diffusion-MRI and brain-age models for pediatric clinical populations, and turn messy neuroimaging workflows into pipelines that actually run end-to-end on HPC.
+**Biomedical engineer & neuroimaging researcher** working at the intersection of **MRI physics, reproducible data pipelines, and clinical research.** I work with diffusion-MRI, functional MRI, and brain-age models for pediatric cancer survivor populations, and turn messy neuroimaging workflows into pipelines that actually run end-to-end on HPC.
 
-Currently a **Study Coordinator / Research Engineer in Radiology** at **Albert Einstein College of Medicine** (PI: Tim Duong), working on neuroimaging of pediatric hematologic-malignancy survivors.
+Currently a **Study Coordinator in Radiology** at **Albert Einstein College of Medicine** (PI: Tim Duong), working on neuroimaging of pediatric cancer survivors.
 
 Outside the lab: guitar, badminton, and chasing clear skies for astrophotography 🔭 — planetary conjunctions and the occasional moon shot.
 
@@ -11,9 +11,10 @@ Outside the lab: guitar, badminton, and chasing clear skies for astrophotography
 ### 🔬 What I work on
 
 - **Brain-age prediction in pediatric cancer survivors** — DL model ensembles (ViT / CNN, diffusion-based) in PyTorch
-- **Diffusion-MRI microstructure** — NODDI, DKI, WMTI, and free-water modeling applied to clinical pediatric cohorts
+- **Diffusion-MRI microstructure** — NODDI, DKI, WMTI, and free-water modeling applied to different clinical cohorts like leukemia survivors, ASD
+- **Functional MRI preprocessing** - Preprocessing of functional MRI data for resting-state and task-based fMRI studies
 - **Reproducible HPC pipelines** — registration (ANTs), preprocessing, and analysis workflows built to run reliably on a Slurm cluster
-- **Systematic review** on chemotherapy-related brain changes in pediatric cancer survivors *(under review)*
+- Recently submitted a **Systematic review** on chemotherapy-related brain changes in pediatric cancer survivors *(under review)*
 
 ---
 
