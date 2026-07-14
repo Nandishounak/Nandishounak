@@ -1,58 +1,57 @@
-<h1><p align="center">Hi, I'm Shounak Nandi! <a href="https://nandishounak.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p></h1>
+# Hi, I'm Shounak Nandi 👋
 
-<p align="center">I'm a biomedical engineer and neuroimaging researcher working at the intersection of MRI physics, data pipelines, and clinical research.<br/>I specialize in pediatric neuroimaging, brain MRI analysis pipelines, and building reproducible research workflows on HPC clusters.<br>Outside the lab, I spend my time playing guitar and playing badminton. Recently, my newfound hobby is chasing clear skies for astrophotography 🔭 and planetary conjunctions, taking moon photographs.<br></p><br/>
+**Biomedical engineer & neuroimaging researcher** working at the intersection of **MRI physics, reproducible data pipelines, and clinical research.** I build diffusion-MRI and brain-age models for pediatric clinical populations, and turn messy neuroimaging workflows into pipelines that actually run end-to-end on HPC.
 
-<summary><h2>What I am currently upto :</h2></summary>
+Currently a **Study Coordinator / Research Engineer in Radiology** at **Albert Einstein College of Medicine** (PI: Tim Duong), working on neuroimaging of pediatric hematologic-malignancy survivors.
 
-* 🧠 Study Coordinator at **Albert Einstein College of Medicine** (PI: Tim Duong), working on pediatric hematologic malignancy survivor neuroimaging studies
-* 🖋️ Developing ML/DL models to predict the Brain Age of pediatric cancer patients
-* ⚙️ Building and debugging brain age prediction pipelines on HPC (Python, conda environments, dependency management)
-* 🧪 Developing MRI analysis workflows
-* 🌌 Learning about MRI physics, pulse sequences, and mathematical models for implementing Diffusion and Functional MRI
-* 💬 Ask me about neuroimaging pipelines, biomedical engineering, or living abroad as an Expat (US, Germany)
+Outside the lab: guitar, badminton, and chasing clear skies for astrophotography 🔭 — planetary conjunctions and the occasional moon shot.
 
-<summary><h2><img src="https://slackmojis.com/emojis/57097-bulbasaur/download" align="center"
-                width="28" /> To connect with me</h2></summary>
+---
 
-<p align = "center">
+### 🔬 What I work on
 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nandishounak.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shounak-nandi-b2b40b78)
-[<img src="https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white" />](https://www.researchgate.net/profile/Shounak-Nandi?ev=hdr_xprf)
-[<img src="https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en)
+- **Brain-age prediction in pediatric cancer survivors** — DL model ensembles (ViT / CNN, diffusion-based) in PyTorch
+- **Diffusion-MRI microstructure** — NODDI, DKI, WMTI, and free-water modeling applied to clinical pediatric cohorts
+- **Reproducible HPC pipelines** — registration (ANTs), preprocessing, and analysis workflows built to run reliably on a Slurm cluster
+- **Systematic review** on chemotherapy-related brain changes in pediatric cancer survivors *(under review)*
 
-</p>
+---
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
+### 📄 Selected publications
 
-<br>
+- **[Microvascular and microstructural brain abnormalities in paediatric haematological cancer survivors are related to cognitive deficits: An IVIM-FWI MRI study](https://doi.org/10.1111/bjh.70300)** — *British Journal of Haematology* (2026). A three-compartment IVIM-FWI diffusion model revealed reduced microvascular perfusion and increased free water in survivors' brains, in regions tied to cognition — and those changes tracked with poorer cognitive test performance.
+- **[MRI Textural Changes Are More Sensitive Than Volumetric Changes in the Amygdala of Cocaine Use Disorder Patients](https://doi.org/10.1002/nbm.70193)** *(first author)* — *NMR in Biomedicine* (2026). Amygdala texture features detected longitudinal brain changes that volumetry missed, pointing to texture analysis as a more sensitive imaging biomarker.
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nandishounak&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32&cache_seconds=1800">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Nandishounak&">
-</p>
+[Full list on Google Scholar →](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en)
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+---
 
-<br>
+### 🔗 Find me
 
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-Slurm-0092CB?style=flat-square" alt="Slurm" height="25" />
-</div>
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nqoO0iwAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shounak-Nandi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://nandishounak.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounak-nandi-b2b40b78)
 
-<br>
+---
 
-<p align="center"><b>Neuroimaging stack:</b> FreeSurfer · FSL · ANTs · dipy · TBSS · NODDI · SPM · MRtrix · DICOM · NIfTI · BIDS</p>
+### 🛠️ Tools
 
------
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-00A4EF?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 
-<p align="center"><sub>Profile README inspired by the classic GitHub self-README format.</sub><br/><sub>Credits: https://github.com/RahulMahesh62 · Format inspired by https://github.com/AbhilashPal</sub></p>
+**Neuroimaging stack:** FreeSurfer · FSL · ANTs · dipy · MRtrix · SPM · TBSS · NODDI · DICOM / NIfTI / BIDS
+
+---
+
+### 💬 Ask me about
+
+Neuroimaging pipelines · quantitative MRI physics · building reproducible research workflows on HPC · life abroad as an expat (US 🇺🇸 / Germany 🇩🇪)
+
+<sub>Profile README inspired by the classic GitHub self-README format.</sub>
